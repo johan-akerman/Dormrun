@@ -15,8 +15,12 @@ export default function ReviewSummary({ property }) {
       property.reviews.map((review) => {
         let index = review.rating - 1;
         tmp[index] = tmp[index] + 1;
-        count += tmp[index] * (index + 1);
       });
+    }
+
+    for (let i = 0; i < 5; i++) {
+      count += tmp[i] * (i + 1);
+      console.log("count", count);
     }
 
     setScores(tmp);
