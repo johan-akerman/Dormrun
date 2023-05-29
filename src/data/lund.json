@@ -157,11 +157,19 @@
     "url": "studentlyckan",
     "title": "Studentlyckan",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/studentlyckan/stl_puff.jpg",
-    "averageRating": 0,
+    "averageRating": 5,
     "reviews": [
       {
         "rating": 5,
-        "review": " Bästa stället i Lund om man vill flytta ihop med sin partner. Nära stan, fina promenadrundor vid åkrarna söderut. Stor och fin innergård med massa grillar och volleybollplan. Vissa lägenheter har alla fönster åt samma håll, välj då den sida som har fönster åt innegården så får ni trevligare utsikt. Som sagt bra för par, kan vara svårt att bo med en kompis pga planlösningen och blir för dyrt att bo själv.",
+        "review": "Lugnt område med lite äldre studenter",
+        "type": "2 rum",
+        "name": "Amin",
+        "photos": [],
+        "date": "29 Maj 2023"
+      },
+      {
+        "rating": 5,
+        "review": "Bästa stället i Lund om man vill flytta ihop med sin partner. Nära stan, fina promenadrundor vid åkrarna söderut. Stor och fin innergård med massa grillar och volleybollplan. Vissa lägenheter har alla fönster åt samma håll, välj då den sida som har fönster åt innegården så får ni trevligare utsikt. Som sagt bra för par, kan vara svårt att bo med en kompis pga planlösningen och blir för dyrt att bo själv.",
         "type": "2 rum",
         "name": "Ludvig",
         "photos": [],
