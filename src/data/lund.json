@@ -1,0 +1,277 @@
+[
+  {
+    "url": "bokompakt",
+    "title": "Bokompakt",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/bokompakt/bk_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "dammhagen",
+    "title": "Dammhagen",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/dammhagen/bb_dh_puff.jpg",
+    "averageRating": 4,
+    "reviews": [
+      {
+        "rating": 4,
+        "review": "Bodde i en kompislägenhet på Dammhagen under 2 år. Superbra läge och väldigt fräscha rum. Det enda som går att klaga på i 2 rums lägenheterna är att det inte finns så mycket sociala ytor då det bara är ett väldigt litet kök.",
+        "type": "2 rum",
+        "name": "Johan",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
+  },
+
+  {
+    "url": "delphi",
+    "title": "Delphi",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/delphi/delphi_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "gylleholm",
+    "title": "Gylleholm",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/gylleholm/gy_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "hippocampus",
+    "title": "Hippocampus",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/hippocampus/hc_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "klosterangen",
+    "title": "Klosterängen",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/klosterangen/kl_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "kamnarsratten",
+    "title": "Kämnärsrätten",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/kamnarsratten/ka_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "magasinet",
+    "title": "Magasinet",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/magasinet/mag_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "marathon",
+    "title": "Marathon",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/marathon/ma_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "parentesen",
+    "title": "Parentesen",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/parentesen/par_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "park",
+    "title": "Park",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/park/pk_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "pierus",
+    "title": "Pierus",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/pireus/prs_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "proto",
+    "title": "Proto",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/proto/pr_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "sagoeken",
+    "title": "Sagoeken",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/sagoeken/sg_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "sparta",
+    "title": "Sparta",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/sparta/sp_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "studentlyckan",
+    "title": "Studentlyckan",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/studentlyckan/stl_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "tomegapsgarden",
+    "title": "Tomegapsgården",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/tomegap/tom_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "ulrikedal",
+    "title": "Ulrikedal",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/ulrikedal/ulr_puff.jpg",
+    "averageRating": 3,
+    "reviews": [
+      {
+        "rating": 3,
+        "review": "Jag bodde i en kompislägenhet på Ulrikedal VT2020. Rätt så liten lägenhet och den skulle behöva lite renovering. Men annars superbra läge nära stan och väldigt billig! Också stort plus att det fanns mataffär nära! Skulle gärna bo på Ulrikedal igen!  ",
+        "type": "2 rum",
+        "name": "Johan",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
+  },
+
+  {
+    "url": "vegalyckan",
+    "title": "Vegalyckan",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/vegalyckan/vega_puff.jpg",
+    "averageRating": 0,
+    "reviews": []
+  },
+
+  {
+    "url": "vildanden",
+    "title": "Vildanden",
+    "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/vildanden/vi_av_puff.jpg",
+    "averageRating": 1,
+    "reviews": [
+      {
+        "rating": 1,
+        "review": "Jag flyttade in i en 1a på Vildanden när jag började plugga i Lund. Det var mitt första studentboende. Generellt fräscht men det ligger rätt avskilt från resten av Lund och det händer inte så mycket ute vid Vildanden.",
+        "type": "1 rum",
+        "name": "Johan",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
+  },
+  {
+    "url": "michael_hansens_kollegium",
+    "title": "Michael Hansens Kollegium",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM8QCfOeIkM399WC56KL55Dj3NDw5R6zLsRJmgG=s1360-w1360-h1020",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "ostgota_nation",
+    "title": "Östgöta Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "vastgota_nation",
+    "title": "Västgöta Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "lunds_nation",
+    "title": "Lunds Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "malmo_nation",
+    "title": "Malmö Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "helsingkrona_nation",
+    "title": "Helsingkrona Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "sydskanska_nationen",
+    "title": "Sydskånska Nationen",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "kristianstads_nation",
+    "title": "Kristianstads Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "blekingska_nationen",
+    "title": "Blekingska Nationen",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "goteborgs_nation",
+    "title": "Göteborgs Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "hallands_nation",
+    "title": "Hallands Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "kalmar_nation",
+    "title": "Kalmar Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  },
+  {
+    "url": "wermlands_nation",
+    "title": "Wermlands Nation",
+    "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
+    "averageRating": 0,
+    "reviews": []
+  }
+]
