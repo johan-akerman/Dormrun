@@ -28,8 +28,17 @@
     "url": "delphi",
     "title": "Delphi",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/delphi/delphi_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 4,
+    "reviews": [
+      {
+        "rating": 4,
+        "review": "Lite långt från centrum men fina rum och trevligt område omring :) Väldigt nära till LTH om man pluggar där",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
 
   {
@@ -131,8 +140,17 @@
     "url": "sparta",
     "title": "Sparta",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/sparta/sp_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 4,
+    "reviews": [
+      {
+        "rating": 4,
+        "review": "Ligger någolunda centralt i lund och nära till både ekonomihögskolan och lth, lite trista byggnader och kan vara dålig utsikt från korridorsrum men annars fina rum och kök. Nära till ica och gym, och även trevligt promenadområde runt omkring.",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
 
   {
@@ -235,7 +253,7 @@
     "reviews": [
       {
         "rating": 4,
-        "review": "Bättre än avrage ur alla perspektiv, men inte extremt bra ur något. Renare, mer socialt, billigare osv. Folk som hade rum mot innegården hade dock svårt att sova under LTHs nollningsperiod.",
+        "review": "Bättre än average ur alla perspektiv, men inte extremt bra ur något. Renare, mer socialt, billigare osv. Folk som hade rum mot innegården hade dock svårt att sova under LTHs nollningsperiod.",
         "type": "Korridorsrum",
         "name": "Lukas",
         "photos": [],
