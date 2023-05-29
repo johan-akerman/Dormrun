@@ -9,7 +9,7 @@ export function Footer() {
         <Link className="text-4xl font-medium hover:opacity-60 italic" to="/">
           Dormrun
         </Link>
-        <p className="text-md font-medium w-96 mx-auto text-center mt-2">
+        <p className="text-md font-medium w-80 mx-auto text-center mt-2">
           Hitta, jämför och betygsätt studentboenden.
         </p>
       </div>
