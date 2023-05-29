@@ -281,8 +281,17 @@
     "url": "parasollet",
     "title": "Parasollet",
     "thumbnail": "https://k2a.se/wp-content/uploads/2021/09/DJI_0150-1-1442x1080.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 3,
+    "reviews": [
+      {
+        "rating": 3,
+        "review": "Bodde här mina första två år när det var nytt och spårvagnen började gå. Området har blivit bra med Hemköp, gym och lilla ved. Väldigt smidigt att ta spårvagnen till stan. Lägenheterna är bra planerade och fräscha. Negativa är att det ligger lite avskiljdes och hyran var ganska saftigt för läget.",
+        "type": "1 rum",
+        "name": "Hannes",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
   {
     "url": "helgonagarden",
