@@ -82,8 +82,17 @@
     "url": "parentesen",
     "title": "Parentesen",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/parentesen/par_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 5,
+    "reviews": [
+      {
+        "rating": 5,
+        "review": "Bott här i snart tre år och älskar det. Om du vill bo socialt finns det inget bättre ställe.",
+        "type": "Korridorsrum",
+        "name": "Axel",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
 
   {
