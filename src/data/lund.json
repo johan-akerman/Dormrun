@@ -138,8 +138,17 @@
     "url": "tomegapsgarden",
     "title": "Tomegapsgården",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/tomegap/tom_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 5,
+    "reviews": [
+      {
+        "rating": 5,
+        "review": "Skönt häng! Rent! Sjuk baksida och bra läge",
+        "type": "Korridorsrum",
+        "name": "Hannes",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
 
   {
@@ -163,16 +172,33 @@
     "url": "vegalyckan",
     "title": "Vegalyckan",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/vegalyckan/vega_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 5,
+    "reviews": [
+      {
+        "rating": 5,
+        "review": "Riktigt fräscht och tyst. Nära till bussen och ICA. Bor i ett loft med min flickvän. Mysigt! Enda dåliga är att jag fick ett rätt dåligt förråd på vinden.",
+        "type": "1 rum",
+        "name": "Theo",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
 
   {
     "url": "vildanden",
     "title": "Vildanden",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/vildanden/vi_av_puff.jpg",
-    "averageRating": 1,
+    "averageRating": 2,
     "reviews": [
+      {
+        "rating": 3,
+        "review": " Flyttade in i en korridor mitt första år i Lund, var en väldigt fräsch korridor och mysigt boende. Fanns bra lokaler med tex Bastu och Pingisbord som gick att boka, det ända negativa var att det ligger långt från LTH.",
+        "type": "Korridorsrum",
+        "name": "Axel",
+        "photos": [],
+        "date": "29 Maj 2023"
+      },
       {
         "rating": 1,
         "review": "Jag flyttade in i en 1a på Vildanden när jag började plugga i Lund. Det var mitt första studentboende. Generellt fräscht men det ligger rätt avskilt från resten av Lund och det händer inte så mycket ute vid Vildanden.",
@@ -187,8 +213,17 @@
     "url": "michael_hansens_kollegium",
     "title": "Michael Hansens Kollegium",
     "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM8QCfOeIkM399WC56KL55Dj3NDw5R6zLsRJmgG=s1360-w1360-h1020",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 4,
+    "reviews": [
+      {
+        "rating": 4,
+        "review": "Bodde här mina första 3 år i Lund. Väldigt nära LTH och EHL. Trivdes väldigt bra i mitt rum, bättre standard än många andra korridorer. Rimlig hyra. Dessutom var min korre trevlig under alla åren!",
+        "type": "Korridorsrum",
+        "name": "Theo",
+        "photos": [],
+        "date": "29 Maj 2023"
+      }
+    ]
   },
   {
     "url": "ostgota_nation",
