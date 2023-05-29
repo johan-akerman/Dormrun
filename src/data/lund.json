@@ -226,6 +226,14 @@
     "reviews": [
       {
         "rating": 4,
+        "review": "Bättre än avrage ur alla perspektiv, men inte extremt bra ur något. Renare, mer socialt, billigare osv. Folk som hade rum mot innegården hade dock svårt att sova under LTHs nollningsperiod.",
+        "type": "Korridorsrum",
+        "name": "Lukas",
+        "photos": [],
+        "date": "29 Maj 2023"
+      },
+      {
+        "rating": 4,
         "review": "Bodde här mina första 3 år i Lund. Väldigt nära LTH och EHL. Trivdes väldigt bra i mitt rum, bättre standard än många andra korridorer. Rimlig hyra. Dessutom var min korre trevlig under alla åren!",
         "type": "Korridorsrum",
         "name": "Theo",
