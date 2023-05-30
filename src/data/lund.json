@@ -69,8 +69,17 @@
     "url": "kamnarsratten",
     "title": "Kämnärsrätten",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/kamnarsratten/ka_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 4,
+    "reviews": [
+      {
+        "rating": 4,
+        "review": "Gamla hus, men har inte haft några problem och man får väldigt mycket för pengarna. när jag delar med 2 andra betalar 2700 i månaden för en 4a Lugnt område utan mycket fester, på gott och ont. Största minus är att det känns långt från stan.",
+        "type": "4 rum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "30 Maj 2023"
+      }
+    ]
   },
 
   {
