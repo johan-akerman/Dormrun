@@ -95,6 +95,14 @@
     "reviews": [
       {
         "rating": 5,
+        "review": "Parran är bra men D4 bäst. Trust me",
+        "type": "Korridorsrum",
+        "name": "Joaquim",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
+      {
+        "rating": 5,
         "review": "Bott här i 3.5 år och det är utan tvekan Lunds bästa studentboende",
         "type": "Korridorsrum",
         "name": "Julia",
