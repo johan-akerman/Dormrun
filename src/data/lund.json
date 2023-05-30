@@ -95,6 +95,14 @@
     "reviews": [
       {
         "rating": 5,
+        "review": "Bott här i 3.5 år och det är utan tvekan Lunds bästa studentboende",
+        "type": "Korridorsrum",
+        "name": "Julia",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
+      {
+        "rating": 5,
         "review": "Bott här i snart tre år och älskar det. Om du vill bo socialt finns det inget bättre ställe.",
         "type": "Korridorsrum",
         "name": "Axel",
@@ -199,8 +207,16 @@
     "url": "ulrikedal",
     "title": "Ulrikedal",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/ulrikedal/ulr_puff.jpg",
-    "averageRating": 3,
+    "averageRating": 4,
     "reviews": [
+      {
+        "rating": 5,
+        "review": "",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
       {
         "rating": 3,
         "review": "Jag bodde i en kompislägenhet på Ulrikedal VT2020. Rätt så liten lägenhet och den skulle behöva lite renovering. Men annars superbra läge nära stan och väldigt billig! Också stort plus att det fanns mataffär nära! Skulle gärna bo på Ulrikedal igen!  ",
@@ -367,8 +383,17 @@
     "url": "hallands_nation",
     "title": "Hallands Nation",
     "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 5,
+    "reviews": [
+      {
+        "rating": 5,
+        "review": "Bra hus med skön gemenskap",
+        "type": "Korridorsrum",
+        "name": "Haris",
+        "photos": [],
+        "date": "30 Maj 2023"
+      }
+    ]
   },
   {
     "url": "kalmar_nation",
