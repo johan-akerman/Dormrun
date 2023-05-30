@@ -95,6 +95,22 @@
     "reviews": [
       {
         "rating": 5,
+        "review": "Parran är dunder! Du kommer inte ångra dig",
+        "type": "Korridorsrum",
+        "name": "Joaquim",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
+      {
+        "rating": 5,
+        "review": "Otrolig gemenskap, bra läge, fräscha boenden och gemensamma utrymmen",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
+      {
+        "rating": 5,
         "review": "Parran är bra men D4 bäst. Trust me",
         "type": "Korridorsrum",
         "name": "Joaquim",
