@@ -95,6 +95,14 @@
     "reviews": [
       {
         "rating": 5,
+        "review": "",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
+      {
+        "rating": 5,
         "review": "Absolut bästa stället i Lund. Vildaste, mest sociala, roligaste. Finns inget annat ställe man får ett så bra studentliv.",
         "type": "Korridorsrum",
         "name": "Anonym",
