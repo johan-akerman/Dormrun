@@ -388,8 +388,17 @@
     "url": "helsingkrona_nation",
     "title": "Helsingkrona Nation",
     "thumbnail": "https://us.123rf.com/450wm/mathier/mathier1905/mathier190500002/134557216-no-thumbnail-image-placeholder-for-forums-blogs-and-websites.jpg?ver=6",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 3,
+    "reviews": [
+      {
+        "rating": 3,
+        "review": "Bor i korridorsrum på nationen. Väldigt bra läge, väldigt trevligt kök/vardagsrum och man är nästan garanterad att vara omgiven med trevliga människor. Hyran var redan rätt hög innan jag flyttade in, men pga elpriser och räntehöjningar har denna höjts ytterligare och det är verkligen inte 'värt det' längre trots att det är riktigt nice att bo här (betalar 4600kr/mån 10 månader om året). Störigt, men förståeligt, att hissen hålls avstängd under festtimmarna. Låter sjukt mycket från bygget under morgonen vilket är rätt störigt, men det lär vara över inom 1 år iaf",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "30 Maj 2023"
+      }
+    ]
   },
   {
     "url": "sydskanska_nationen",
