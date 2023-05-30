@@ -46,9 +46,8 @@ export default function ReviewForm({ property }) {
               Tack!
             </h1>
             <p>
-              Innan vi laddar upp din recension så kommer den att granskas. Om
-              du har några frågor kan du kontakta{" "}
-              <span className="text-green">johan.dormrun@gmail.com</span>
+              Innan vi laddar upp din recension så kommer den att granskas. Kom
+              tillbaka snart!
             </p>
           </div>
         ) : (

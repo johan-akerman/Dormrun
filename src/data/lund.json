@@ -95,6 +95,14 @@
     "reviews": [
       {
         "rating": 5,
+        "review": "Gemenskapen och läget gör allt!",
+        "type": "Korridorsrum",
+        "name": "Anonym",
+        "photos": [],
+        "date": "30 Maj 2023"
+      },
+      {
+        "rating": 5,
         "review": "Parran är dunder! Du kommer inte ångra dig",
         "type": "Korridorsrum",
         "name": "Joaquim",
