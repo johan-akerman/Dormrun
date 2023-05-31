@@ -2,6 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
+import StarRatings from "react-star-ratings";
 
 export default function RentalCard({ property, i }) {
   return (
@@ -18,50 +19,21 @@ export default function RentalCard({ property, i }) {
             <p className="text-2xl font-semibold text-gray-900 leading-none">
               {property.title}
             </p>
-            <p className="pt-2 text-sm">
-              <FontAwesomeIcon
-                icon={faStar}
-                className={`ml-0.5  ${
-                  property.averageRating >= 1
-                    ? "text-yellow-400"
-                    : "text-gray-300"
-                }`}
+            <p className="pt-1 text-sm flex">
+              <StarRatings
+                rating={property.averageRating}
+                starRatedColor="#FACC13"
+                starHoverColor="#FACC13"
+                starDimension="20px"
+                starSpacing="1px"
+                numberOfStars={5}
+                name="rating"
               />
-              <FontAwesomeIcon
-                icon={faStar}
-                className={`ml-0.5  ${
-                  property.averageRating >= 2
-                    ? "text-yellow-400"
-                    : "text-gray-300"
-                }`}
-              />
-              <FontAwesomeIcon
-                icon={faStar}
-                className={`ml-0.5  ${
-                  property.averageRating >= 3
-                    ? "text-yellow-400"
-                    : "text-gray-300"
-                }`}
-              />
-              <FontAwesomeIcon
-                icon={faStar}
-                className={`ml-0.5  ${
-                  property.averageRating >= 4
-                    ? "text-yellow-400"
-                    : "text-gray-300"
-                }`}
-              />
-              <FontAwesomeIcon
-                icon={faStar}
-                className={`ml-0.5  ${
-                  property.averageRating >= 5
-                    ? "text-yellow-400"
-                    : "text-gray-300"
-                }`}
-              />{" "}
-              <span className="ml-2 font-medium text-gray-400">
-                {property.reviews.length} reviews
-              </span>
+
+              <p className="ml-2 mt-0.5 font-medium text-gray-400">
+                <span className="font-bold">{property.averageRating} / 5</span>{" "}
+                <span className="font-normal">({property.reviews.length})</span>
+              </p>
             </p>
           </div>
         </div>
