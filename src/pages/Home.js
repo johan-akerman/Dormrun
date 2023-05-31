@@ -6,6 +6,7 @@ import RentalCard from "../components/RentalCard";
 import { InfoBar } from "../components/InfoBar";
 import lundData from "../data/lund.json";
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
 
 export default function Home() {
   const [data, setData] = useState([]);
@@ -46,6 +47,22 @@ export default function Home() {
             {data.map((property, i) => {
               return <RentalCard property={property} i={i} key={i} />;
             })}
+          </div>
+
+          <div className="my-16 text-center">
+            <h1 className="text-center text-black lg:text-4xl text-3xl sm:mt-5 font-bold">
+              Saknar du ditt boende i listan?
+            </h1>
+            <p className="mt-3 md:text-xl text-lg px-5 mb-8">
+              Skriv en review för ditt boende så lägger vi till det!
+            </p>
+
+            <Link
+              to="/new-dorm"
+              className="mt-6 px-5 py-2 border border-transparent font-medium rounded-md text-white bg-green text-lg transform ease-in duration-100 hover:-translate-y-2 hover:shadow-lg"
+            >
+              Lägg till boende
+            </Link>
           </div>
         </div>
       </div>

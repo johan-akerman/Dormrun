@@ -4,7 +4,8 @@ import { createRoot } from "react-dom/client";
 
 import Home from "./pages/Home";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Marathon from "./pages/Rental";
+import Rental from "./pages/Rental";
+import New from "./pages/New";
 
 const router = createBrowserRouter([
   {
@@ -14,7 +15,12 @@ const router = createBrowserRouter([
 
   {
     path: "/lund/:rental",
-    element: <Marathon />,
+    element: <Rental />,
+  },
+
+  {
+    path: "/new-dorm",
+    element: <New />,
   },
 ]);
 

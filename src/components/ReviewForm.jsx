@@ -1,8 +1,5 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
-
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faStar, faImage } from "@fortawesome/free-solid-svg-icons";
 import StarRatings from "react-star-ratings";
 
 export default function ReviewForm({ property }) {
@@ -46,7 +43,7 @@ export default function ReviewForm({ property }) {
               Tack!
             </h1>
             <p>
-              Innan vi laddar upp din recension så kommer den att granskas. Kom
+              Innan vi laddar upp din review så kommer den att granskas. Kom
               tillbaka snart!
             </p>
           </div>
@@ -154,7 +151,7 @@ export default function ReviewForm({ property }) {
               <input
                 type="submit"
                 value="Ladda upp"
-                className="mt-6 px-5 py-2 border border-transparent font-medium rounded-md text-white bg-green text-lg transform ease-in duration-100 hover:-translate-y-2 hover:shadow-lg"
+                className="cursor-pointer mt-6 px-5 py-2 border border-transparent font-medium rounded-md text-white bg-green text-lg transform ease-in duration-100 hover:-translate-y-2 hover:shadow-lg"
               />
             </form>
           </div>
