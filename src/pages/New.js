@@ -7,9 +7,12 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
 import { useEffect } from "react";
+import ReactGA from "react-ga";
 
 export default function New() {
   useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+
     window.scrollTo(0, 0);
   }, []);
 

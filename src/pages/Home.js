@@ -7,11 +7,13 @@ import { InfoBar } from "../components/InfoBar";
 import lundData from "../data/lund.json";
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
+import ReactGA from "react-ga";
 
 export default function Home() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
     let tmp = lundData;
     // tmp.sort((a, b) => b.averageRating - a.averageRating);
 

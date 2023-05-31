@@ -10,6 +10,7 @@ import { faBoxOpen, faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
 import data from "../data/lund.json";
 import { useEffect } from "react";
+import ReactGA from "react-ga";
 
 export default function Rental() {
   const url = window.location.href;
@@ -18,6 +19,7 @@ export default function Rental() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    ReactGA.pageview(window.location.pathname);
   }, []);
 
   useEffect(() => {
