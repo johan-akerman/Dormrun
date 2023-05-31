@@ -28,8 +28,16 @@
     "url": "delphi",
     "title": "Delphi",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/delphi/delphi_puff.jpg",
-    "averageRating": 4,
+    "averageRating": 4.5,
     "reviews": [
+      {
+        "rating": 5,
+        "review": "Gillar verkligen min lägenhet, välplanerad och fint område runt omkring. 10-15 min m cykel till centrum, vilket jag tycker är helt planerbart :)",
+        "type": "Korridorsrum",
+        "name": "Simon",
+        "photos": [],
+        "date": "31 Juni 2023"
+      },
       {
         "rating": 4,
         "review": "Lite långt från centrum men fina rum och trevligt område omring :) Väldigt nära till LTH om man pluggar där",
