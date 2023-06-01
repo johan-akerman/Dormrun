@@ -15,18 +15,12 @@ export default function Home() {
   useEffect(() => {
     ReactGA.pageview(window.location.pathname);
     let tmp = lundData;
-    // tmp.sort((a, b) => b.averageRating - a.averageRating);
-
     tmp.sort(function (a, b) {
       // Sort by average rating.
-      // If the first item has a higher number, move it down
-      // If the first item has a lower number, move it up
       if (a.averageRating > b.averageRating) return -1;
       if (a.averageRating < b.averageRating) return 1;
 
       // If the votes number is the same between both items, sort alphabetically
-      // If the first item comes first in the alphabet, move it up
-      // Otherwise move it down
       if (a.reviews.length < b.reviews.length) return 1;
       if (a.reviews.length > b.reviews.length) return -1;
     });

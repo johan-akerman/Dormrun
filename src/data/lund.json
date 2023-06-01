@@ -101,8 +101,17 @@
     "url": "marathon",
     "title": "Marathon",
     "thumbnail": "https://www.afbostader.se/globalassets/bostadsomraden/marathon/ma_puff.jpg",
-    "averageRating": 0,
-    "reviews": []
+    "averageRating": 5,
+    "reviews": [
+      {
+        "rating": 5,
+        "review": "Precis flyttat in i en super fin, fräsch och väl planerad 1a på 23 kvm. Perfekt läge med nära till både LTH och stan!",
+        "type": "1 rum",
+        "name": "Johan",
+        "photos": [],
+        "date": "1 Juni 2023"
+      }
+    ]
   },
   {
     "url": "parentesen",
