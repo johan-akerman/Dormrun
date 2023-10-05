@@ -12,10 +12,10 @@ export default function ReviewForm({ property }) {
 
     emailjs
       .sendForm(
-        "service_bjq999o",
-        "template_bze9k0c",
+        "X", ### add your service ID
+        "Y", ### add template ID
         form.current,
-        "ImJf0U-BesTuKCwaz"
+        "Z" ### add your ID
       )
       .then(
         (result) => {
