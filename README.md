@@ -8,7 +8,7 @@ Dormrun:  find, compare and review student housing.
 </p>
 
 ## 📖 About the project
-When you are moving to a new city to start university it is super difficult to find good accomodation. More specifically, you don't know what is good, what is bad and what is a scam. As an example, throughout my 5 years as a student at Lund University I lived in 5 different places. Some were good, some were bad and some were a scam. To help solve this problem for new students, I hacked together a prototype for www.dormrun.com during a weekend.  
+When you are moving to a new city to start university it is super difficult to find good accomodation. As an example, throughout my 5 years as a student at Lund University I lived in 5 different places. Some were good, some were bad and some were a scam. To help solve this problem for new students, I hacked together a prototype for www.dormrun.com during a weekend.  
 
 ## ⚙️ Technologies used
 
