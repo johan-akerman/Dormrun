@@ -32,7 +32,7 @@ Tailwind  | CSS styling library
  <p align="center">
 <img src="/3.png"
 	title="3" width="800" /> 
- <p align="center">Seperate page for an acommodations with reviews
+ <p align="center">Seperate page for an acommodation with user reviews
 </p>
 <br />
 
