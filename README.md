@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<h1>
+Dormrun:  find, compare and review student housing. 
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="/1.png"
+	title="4" width="800" />
+</p>
 
-## Available Scripts
+## 📖 About the project
+When you are moving to a new city to start university it is super difficult to find good accomodation. More specifically, you don't know what is good, what is bad and what is a scam. As an example, throughout my 5 years as a student at Lund University I lived in 5 different places. Some were good, some were bad and some were a scam. To help solve this problem for new students, I hacked together a prototype for www.dormrun.com during a weekend.  
 
-In the project directory, you can run:
+## ⚙️ Technologies used
 
-### `npm start`
+Technology | Use case
+| :--- | :--- 
+React  | Frontend framework
+Tailwind  | CSS styling library
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📸 Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+  <p align="center">
+<img src="/2.png"
+	title="2" width="800" /> 
+	
+ <p align="center">List of different accomodations ranked by user reviews
+</p>
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ </p>
+ <p align="center">
+<img src="/3.png"
+	title="3" width="800" /> 
+ <p align="center">Seperate page for an acommodations with reviews
+</p>
+<br />
 
-### `npm run build`
+</p>
+<p align="center">
+<img src="/4.png"
+	title="4" width="400" /> 
+	<p align="center">Component to add a review
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
